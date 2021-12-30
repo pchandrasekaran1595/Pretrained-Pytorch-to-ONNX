@@ -7,6 +7,8 @@
     2. `--size | -s`
     3. `--opver`
 
+- Run using `python main.py <args>`
+
 - Supported Names
 
 `alexnet, vgg11, vgg13, vgg16, vgg19, vgg11_bn, vgg13_bn, vgg16_bn, vgg19_bn,` <br>
